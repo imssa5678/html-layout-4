@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+  
+
+.top-bar {
+    display: flex;
+    background-color:transparent;
+    color:black;
+    padding: 10px 250px;
+    justify-content: space-between;
+}
+.top-bar h3:hover{
+    color:rgb(110, 104, 104);
+    line-height: 10px;
+    border-bottom: 50px;
+    border-bottom: 2px solid grey;
+}
+.sec-1-img{
+    margin-top: 10px;
+    background-image: url(./pexels-photo-3781532.webp);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1200px;
+    height: 800px;
+    position: relative;
+
+    
+}
+.sec-1-img h1{
+    font-size: 50px;
+    padding: 10px 180px;
+    color:black;
+    padding-top: 200px;
+    
+}
+
+.sec-1-img p{
+    font-size: 20px;
+    padding: 10px 180px;
+}
+.sec-1-img .button-1{
+    background-color: grey;
+    color: white;
+    padding: 5px 30px;
+    margin: 100px;
+    position: absolute;
+    left: 80px;
+    top: 380px;
+    font-size: larger;
+}
+.sec-1-img .button-2{
+    background-color:white;
+    color: black;
+    padding: 5px 30px;
+    margin: 100px;
+    position: absolute;
+    left: 280px;
+    top: 380px;
+    font-size: larger;
+}
+.section-2{
+ display: flex;
+ padding: 0px 10px;
+ padding-left: 100px;
+ padding-right: 100px;
+}
+.sec-2-icon-1 img{
+    border-radius: 100px;
+    width: 200px;
+}
+
+.sec-2-icon-2 img{
+    border-radius: 100px;
+    width: 200px;
+}
+.sec-2-icon-3 img{
+    border-radius: 100px;
+    width:200px;
+}
+.sec-2-icon-4 img{
+    border-radius: 100px;
+    width: 200px;
+}
+.section-3 {
+    margin-top: 20px;
+    background-color: bisque;
+    display: flex;
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 450px;
+    gap: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 17px;
+    width: 400px;
+}
+.section-4{
+    display: flex;
+    margin: 20px;
+    justify-content: space-evenly;
+}
+.sec-4-text{
+    text-align: left;
+    padding: 0px 30px;
+    font-size: 17px;
+}
+.sec-4-text span{
+   color: orangered;
+}
+.sec-4-text button{
+   background-color: grey;
+   color: white;
+   padding: 10px;
+   width: 150px;
+   margin-top: 10px;
+}
+.section-5 {
+    margin-left:500px;
+    margin-right:500px;
+    margin-top: 100px;
+    font-size: 17px;
+}
+.section-5 span{
+    color: orangered;
+}
+.section-5-row {
+    display: flex;
+}
+.section-5-left .left{
+    display: flex;
+    margin-left:15px ;
+    margin-top: 15px;
+}
+.section-5-left .right{
+    text-align: left;
+    margin-top: 15px;
+    font-size: larger;
+    background-color: rgb(149, 149, 46);
+    color: white; 
+    padding-left: 15px;
+}
+.section-5-middle .left{
+    display: flex;
+    margin-left:15px ;
+    margin-top: 15px;
+}
+.section-5-middle .right{
+    text-align: left;
+    margin-top: 15px;
+    font-size: larger;
+    background-color: rgb(149, 149, 46);
+    color: white; 
+    padding-left: 15px;
+}
+
+
+
+
