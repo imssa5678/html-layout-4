@@ -130,12 +130,12 @@
 .section-5-row {
     display: flex;
 }
-.section-5-left .left{
+.section-5-row .left{
     display: flex;
     margin-left:15px ;
     margin-top: 15px;
 }
-.section-5-left .right{
+.section-5-row .right{
     text-align: left;
     margin-top: 15px;
     font-size: larger;
@@ -143,12 +143,12 @@
     color: white; 
     padding-left: 15px;
 }
-.section-5-middle .left{
+.section-5-row .left{
     display: flex;
     margin-left:15px ;
     margin-top: 15px;
 }
-.section-5-middle .right{
+.section-5-row .right{
     text-align: left;
     margin-top: 15px;
     font-size: larger;
